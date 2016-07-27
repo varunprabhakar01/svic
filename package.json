@@ -1,0 +1,22 @@
+{
+  "name": "svic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunprabhakar01/svic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunprabhakar01/svic/issues"
+  },
+  "homepage": "https://github.com/varunprabhakar01/svic#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
